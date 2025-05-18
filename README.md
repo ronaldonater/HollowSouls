@@ -1,5 +1,3 @@
----
-
 # Hollow Souls
 
 *A bizarre descent through a fractured world of forgotten drawings and unique creatures.*
